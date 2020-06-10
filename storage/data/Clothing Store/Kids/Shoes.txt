@@ -1,0 +1,7 @@
+    Sneakers & Canvas
+    Boots
+    Casual Shoes
+    Formal Shoes
+    Slippers
+    Sandals
+    School Shoes
